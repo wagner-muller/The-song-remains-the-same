@@ -1,0 +1,10 @@
+PUT http://localhost:3001/users/64a5adc340cb8014faca0637
+Content-Type: application/json
+
+{
+    "email": "jaque.deuner@google.com",
+    "name": "Jaqui",
+    "lastName": "Deuner",
+    "username": "jaque_deuner",
+    "password": "Jaque"
+}

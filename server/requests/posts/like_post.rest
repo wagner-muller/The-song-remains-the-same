@@ -1,0 +1,3 @@
+PUT http://localhost:3001/posts/64aea3d8db7514dace1699f3/like
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImphcXVlLmRldW5lckBnb29nbGUuY29tIiwiaWQiOiI2NGE1YWRjMzQwY2I4MDE0ZmFjYTA2MzciLCJpYXQiOjE2ODkxNjY3ODd9.yo530rKMt2jYI_lD4ZrmMmDldnK861Dl39XyKfByIzs

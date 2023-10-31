@@ -1,0 +1,2 @@
+GET http://localhost:3001/posts/64aea3d8db7514dace1699f3
+Content-Type: application/json

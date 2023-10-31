@@ -1,0 +1,10 @@
+POST http://localhost:3001/users
+Content-Type: application/json
+
+{
+    "email": "jaque.deuner@google.com",
+    "name": "Jaque",
+    "lastName": "Deuner",
+    "username": "jaque_deuner",
+    "password": "Jaque"
+}
